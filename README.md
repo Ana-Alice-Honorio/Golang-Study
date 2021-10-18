@@ -16,3 +16,7 @@
 ✴️<a href="https://www.manning.com/books/go-in-action">Go in Actions 💵</a><br>
 ✴️<a href="https://www.packtpub.com/product/go-programming-blueprints-second-edition/9781786468949">Go Programming Blueprints 💵</a><br>
 ✴️<a href="https://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637">Programming in Go: Creating Applications for the 21st Century 💵</a><br>
+
+<h3>Courses:</h3>
+✴️<a href="https://www.cursou.com.br/informatica/curso-de-introducao-a-linguagem-go-golang/#player">Curso de Introdução a Linguagem Go (Golang)</a><br>
+✴️<a href="https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg">Aprenda Go </a><br>
