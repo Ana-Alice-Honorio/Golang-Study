@@ -1,10 +1,10 @@
-<h2 align="center">🔹The Universe of GO🔹</h2>
+<h2 align="center">🔹The Universe of Go🔹</h2>
 
 ![gomus](https://user-images.githubusercontent.com/79488448/137652984-e457092d-36b6-486f-8485-2b5dff5bd31b.png)
-<h3 align="center">Here you will find links and materials for GO language studies</h3>
+<h3 align="center">Here you will find links and materials for Go language studies</h3>
 
 <h3>Books:</h3>
-✴️<a href="https://larien.gitbook.io/aprenda-go-com-testes/">Aprenda GO com testes</a><br>
+✴️<a href="https://larien.gitbook.io/aprenda-go-com-testes/">Aprenda Go com testes</a><br>
 ✴️<a href="https://livebook.manning.com/book/go-web-programming/preface/">Go web programming</a><br>
 ✴️<a href="http://www.golangbootcamp.com/book">Go Bootcamp</a><br>
 ✴️<a href="http://www.pazams.com/Go-for-Javascript-Developers/">Go for Javascript Developers</a><br>
@@ -18,5 +18,11 @@
 ✴️<a href="https://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637">Programming in Go: Creating Applications for the 21st Century 💵</a><br>
 
 <h3>Courses:</h3>
-✴️<a href="https://www.cursou.com.br/informatica/curso-de-introducao-a-linguagem-go-golang/#player">Curso de Introdução a Linguagem Go (Golang)</a><br>
+✴️<a href="https://www.cursou.com.br/informatica/curso-de-introducao-a-linguagem-go-golang/#player">Curso de Introdução a Linguagem Go</a><br>
 ✴️<a href="https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg">Aprenda Go </a><br>
+✴️<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM">Go Tutorial for Beginners</a><br>
+✴️<a href="https://www.youtube.com/watch?v=Zhq4O7vEqq8&ab_channel=ProgrammingKnowledge">Learn Google's Go Programming Language (2021)</a><br>
+
+<h3>Repositorys:</h3>
+✴️<a href="https://github.com/golang">official Go repository</a><br>
+✴️<a href="https://github.com/Gommunity/vagas/issues">Vagas em Go</a>
