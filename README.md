@@ -35,3 +35,8 @@
 <h3>Repositorys:</h3>
 ✴️<a href="https://github.com/golang">official Go repository</a><br>
 ✴️<a href="https://github.com/Gommunity/vagas/issues">Vagas em Go</a>
+
+<h3>Podcasts:</h3>
+✴️<a href="https://open.spotify.com/episode/2ty93hIKemSXfdFEnm9m4g?si=bgBPyon7ToKEGqT8WSVijA&utm_source=copy-link">A Linguagem Go - Hipsters #67</a><br>
+✴️<a href="https://open.spotify.com/episode/33DbkNQBUX17RuWfMHlg7d?si=1wFdW_6aQr-E9PEf8zqAGg&utm_source=copy-link">Programação Falada - Golang</a><br>
+✴️<a href="https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE?si=MJLtjk_wTP69_lakaek_SQ&utm_source=copy-link">Go time: Golang, Software Engineering</a><br>
