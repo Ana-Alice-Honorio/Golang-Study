@@ -23,6 +23,14 @@
 ✴️<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM">Go Tutorial for Beginners</a><br>
 ✴️<a href="https://www.youtube.com/watch?v=Zhq4O7vEqq8&ab_channel=ProgrammingKnowledge">Learn Google's Go Programming Language (2021)</a><br>
 ✴️<a href="https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https://www.udemy.com/course/getgoing/">GetGoing: Introduction to Golang</a><br>
+✴️<a href="https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https://www.udemy.com/course/golang-the-ultimate-guide-to-microservices-in-go-part-1/">Introdução aos microsserviços REST da indústria em Golang (Go) 💵</a><br>
+✴️<a href="https://www.youtube.com/watch?v=SqrbIlUwR0U&ab_channel=TraversyMedia">Go / Golang Crash Course - Taversy Media Youtube</a><br>
+✴️<a href="https://www.youtube.com/watch?v=YS4e4q9oBaU">Aprenda Golang em 7 horas - FreeCodeCamp YouTube</a><br>
+✴️<a href="https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/">Go (Golang): The Complete Bootcamp (Udemy)💵</a><br>
+✴️<a href="https://www.coursera.org/specializations/google-golang?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-E80mvAuOpfxjcCaWZTnS2w&siteID=JVFxdTr9V80-E80mvAuOpfxjcCaWZTnS2w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80">Programming with Google Go (Coursera)
+</a><br>
+✴️<a href="https://www.udemy.com/course/master-go-programming-complete-golang-bootcamp/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-yHsXB4gkA3YfGPX2Y3tv2A&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads">Master Go (Golang) Programming:The Complete Go Bootcamp 2021 (Udemy)💵</a><br>
+✴️<a href="https://www.udemy.com/course/go-the-complete-developers-guide/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1_7YiIDpUd7aJoDkSOBiNA&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads">Go: The Complete Developer's Guide (Golang)(Udemy)💵</a><br>
 
 <h3>Repositorys:</h3>
 ✴️<a href="https://github.com/golang">official Go repository</a><br>
