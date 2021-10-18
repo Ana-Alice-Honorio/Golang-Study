@@ -11,7 +11,9 @@
 ✴️<a href="https://www.golang-book.com/books/intro">An Introduction to Programming in Go</a><br>
 ✴️<a href="https://www.oreilly.com/library/view/introducing-go/9781491941997/">Introducing Go 💵</a><br>
 ✴️<a href="https://www.miek.nl/go/">Learning Go</a><br>
+✴️<a href="https://jan.newmarch.name/go/">Network programming with Go</a><br>
 ✴️<a href="https://go101.org/article/101.html">Go 101</a><br>
+✴️<a href="https://leanpub.com/gocrypto/read">Practical Cryptography With Go</a><br>
 ✴️<a href="https://www.practical-go-lessons.com/">Pratical Go Lessons</a><br>
 ✴️<a href="https://www.manning.com/books/go-in-action">Go in Actions 💵</a><br>
 ✴️<a href="https://www.packtpub.com/product/go-programming-blueprints-second-edition/9781786468949">Go Programming Blueprints 💵</a><br>
@@ -40,3 +42,11 @@
 ✴️<a href="https://open.spotify.com/episode/2ty93hIKemSXfdFEnm9m4g?si=bgBPyon7ToKEGqT8WSVijA&utm_source=copy-link">A Linguagem Go - Hipsters #67</a><br>
 ✴️<a href="https://open.spotify.com/episode/33DbkNQBUX17RuWfMHlg7d?si=1wFdW_6aQr-E9PEf8zqAGg&utm_source=copy-link">Programação Falada - Golang</a><br>
 ✴️<a href="https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE?si=MJLtjk_wTP69_lakaek_SQ&utm_source=copy-link">Go time: Golang, Software Engineering</a><br>
+
+<h3>Vídeos:</h3>
+✴️<a href="https://www.youtube.com/watch?v=ye6vpu4tCaE&ab_channel=FullCycle">Intensivo Golang: O mínimo que você precisa saber (Full Cycle - YouTube)</a><br>
+✴️<a href="https://www.youtube.com/watch?v=Q0sKAMal4WQ&ab_channel=edureka%21">Go Programming Language Tutorial | Golang Tutorial For Beginners | Go Language Training | Edureka</a><br>
+
+<h3>Blogs/Posts:</h3>
+✴️<a href="https://www.hostgator.com.br/blog/golang-a-linguagem-do-futuro-criada-pelo-google/">Golang: A linguagem do futuro criada pelo Google - Hostgator</a><br>
+✴️<a href="https://medium.com/easyread/golang-programming-language-setup-and-basic-apps-for-beginners-bfec3960fb7d">Golang Programming Language Setup and Basic Apps for Beginners - EasyRead</a><br>
