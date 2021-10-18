@@ -22,6 +22,7 @@
 ✴️<a href="https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg">Aprenda Go </a><br>
 ✴️<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM">Go Tutorial for Beginners</a><br>
 ✴️<a href="https://www.youtube.com/watch?v=Zhq4O7vEqq8&ab_channel=ProgrammingKnowledge">Learn Google's Go Programming Language (2021)</a><br>
+✴️<a href="https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https://www.udemy.com/course/getgoing/">GetGoing: Introduction to Golang</a><br>
 
 <h3>Repositorys:</h3>
 ✴️<a href="https://github.com/golang">official Go repository</a><br>
