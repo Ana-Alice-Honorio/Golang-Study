@@ -50,3 +50,5 @@
 <h3>Blogs/Posts:</h3>
 ✴️<a href="https://www.hostgator.com.br/blog/golang-a-linguagem-do-futuro-criada-pelo-google/">Golang: A linguagem do futuro criada pelo Google - Hostgator</a><br>
 ✴️<a href="https://medium.com/easyread/golang-programming-language-setup-and-basic-apps-for-beginners-bfec3960fb7d">Golang Programming Language Setup and Basic Apps for Beginners - EasyRead</a><br>
+✴️<a href="https://geekflare.com/learn-golang/">Some of the Best Resources for Mastering Golang - GeekFlare</a><br>
+✴️<a href="https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/">Golang Tutorial Guide – A List of Free Courses to Learn the Go Programming Language - FreeCodeCamp</a><br>
