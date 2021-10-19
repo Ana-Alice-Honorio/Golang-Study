@@ -46,6 +46,9 @@
 <h3>Vídeos:</h3>
 ✴️<a href="https://www.youtube.com/watch?v=ye6vpu4tCaE&ab_channel=FullCycle">Intensivo Golang: O mínimo que você precisa saber (Full Cycle - YouTube)</a><br>
 ✴️<a href="https://www.youtube.com/watch?v=Q0sKAMal4WQ&ab_channel=edureka%21">Go Programming Language Tutorial | Golang Tutorial For Beginners | Go Language Training | Edureka</a><br>
+✴️<a href="https://www.youtube.com/watch?v=gYthswsFlyU&ab_channel=DB1Group">Meetup Golang - Desbravando o mundo com Golang - DB1 Group - YouTube</a><br>
+✴️<a href="https://www.youtube.com/watch?v=SqrbIlUwR0U&ab_channel=TraversyMedia">Go / Golang Crash Course - Traversy Media - YouTube</a><br>
+✴️<a href="https://www.youtube.com/watch?v=RhBXMnJHdZw&ab_channel=ProgrammingKnowledge">Golang Tutorial - Learn Go Programming Language - ProgrammingKnowledge - YouTube</a><br>
 
 <h3>Blogs/Posts:</h3>
 ✴️<a href="https://www.hostgator.com.br/blog/golang-a-linguagem-do-futuro-criada-pelo-google/">Golang: A linguagem do futuro criada pelo Google - Hostgator</a><br>
