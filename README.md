@@ -4,6 +4,7 @@
 <h3 align="center">Here you will find links and materials for Go language studies</h3>
 
 <h3>Go Oficial:</h3>
+✴️<a href="https://pkg.go.dev/">Documentation</a><br>
 ✴️<a href="https://tour.golang.org">Tour of Go</a><br>
 ✴️<a href="https://golang.org/ref/spec">The Go Programming Language Specification</a>
 
@@ -50,7 +51,8 @@
 ✴️<a href="https://github.com/Gommunity/vagas/issues">Vagas em Go</a><br>
 ✴️<a href="https://github.com/geiltonxavier/aprenda-go">geiltonxavier/aprenda-go</a><br>
 ✴️<a href="https://github.com/go-br/estudos">go-br/estudos</a><br>
-✴️<a href="https://github.com/golang">Go</a>
+✴️<a href="https://github.com/golang">Go</a><br>
+✴️<a href="https://github.com/dariubs/GoBooks">Go Books</a>
 
 <h3>Podcasts:</h3>
 ✴️<a href="https://open.spotify.com/episode/2ty93hIKemSXfdFEnm9m4g?si=bgBPyon7ToKEGqT8WSVijA&utm_source=copy-link">A Linguagem Go - Hipsters #67</a><br>
@@ -77,7 +79,11 @@
 ✴️<a href="https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go-pt">Como codificar em linguagem Go - Digital Ocean</a><br>
 ✴️<a href="https://eltonminetto.dev/post/2019-10-08-golang-por-onde-comecar/">Golang, por onde começar? - Elton Minetto</a><br>
 ✴️<a href="https://ivanqueiroz.dev/2015/04/aprendendo-gogolang.html">Aprendendo GO/GOLANG - Ivan Queiroz</a><br>
-✴️<a href="https://medium.com/trainingcenter/golang-d94e16d4b383">GoLang - Simplificando a complexidade - Evandro F. Souza</a>
+✴️<a href="https://medium.com/trainingcenter/golang-d94e16d4b383">GoLang - Simplificando a complexidade - Evandro F. Souza</a><br>
+✴️<a href="https://coodesh.com/blog/pessoas-candidatas/carreiras/go-lang-developers/">Go (GoLang): conheça a linguagem criada pelo Google - Coodesh</a><br>
+✴️<a href="https://blog.betrybe.com/linguagem-de-programacao/linguagem-go-guia-completo/">Linguagem Go: guia prático e rápido sobre Golang 2021 - Trybe</a><br>
+✴️<a href="https://www.freelancermap.com/blog/pt/aprender-programar-em-go-golang/#Come%C3%A7ar">Motivos para Você Aprender programar em Go - FreelancerMap</a><br>
+✴️<a href="https://blog.geekhunter.com.br/tutorial-golang/">Tutorial Golang: por onde começar com a linguagem de programação Go - GeekHunter</a><br>
 
 <h3>NewsLetter:</h3>
 ✴️<a href="https://golangweekly.com/issues/383">Golang Weekly</a>
