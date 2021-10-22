@@ -3,6 +3,12 @@
 ![gomus](https://user-images.githubusercontent.com/79488448/137652984-e457092d-36b6-486f-8485-2b5dff5bd31b.png)
 <h3 align="center">Here you will find links and materials for Go language studies</h3>
 
+<h3>Go-br-repo</h3>
+✴️<a href="https://github.com/go-br/estudos">go-br/estudos</a><br>
+
+<h3>FAQ GO:</h3>
+✴️<a href="https://golang.org/doc/faq#principles">Frequently Asked Questions (FAQ)</a>
+
 <h3>Books:</h3>
 ✴️<a href="https://larien.gitbook.io/aprenda-go-com-testes/">Aprenda Go com testes</a><br>
 ✴️<a href="https://livebook.manning.com/book/go-web-programming/preface/">Go web programming</a><br>
@@ -56,3 +62,4 @@
 ✴️<a href="https://medium.com/easyread/golang-programming-language-setup-and-basic-apps-for-beginners-bfec3960fb7d">Golang Programming Language Setup and Basic Apps for Beginners - EasyRead</a><br>
 ✴️<a href="https://geekflare.com/learn-golang/">Some of the Best Resources for Mastering Golang - GeekFlare</a><br>
 ✴️<a href="https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/">Golang Tutorial Guide – A List of Free Courses to Learn the Go Programming Language - FreeCodeCamp</a><br>
+✴️<a href="https://golangweekly.com/issues/383">Golang Weekly</a>
