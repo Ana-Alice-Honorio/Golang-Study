@@ -4,7 +4,7 @@
 <h3 align="center">Here you will find links and materials for Go language studies</h3>
 
 <h3>Go Oficial:</h3>
-✴️<a href="https://tour.golang.org">Tour of Go</a>
+✴️<a href="https://tour.golang.org">Tour of Go</a><br>
 ✴️<a href="https://golang.org/ref/spec">The Go Programming Language Specification</a>
 
 <h3>FAQ GO:</h3>
@@ -62,7 +62,7 @@
 ✴️<a href="https://www.youtube.com/watch?v=ye6vpu4tCaE&ab_channel=FullCycle">Intensivo Golang: O mínimo que você precisa saber (Full Cycle - YouTube)</a><br>
 ✴️<a href="https://www.blackhillsinfosec.com/webcast-shellcode-execution-with-golang/">Webcast: Shellcode Execution with GoLang</a><br>
 ✴️<a href="https://www.youtube.com/watch?v=yOAfEggryWQ&ab_channel=FullCycle">Golang: O segredo por trás das aplicações de milhares de requisições (Full Cycle)</a><br>
-✴️<a href="https://www.youtube.com/watch?v=t7k7Ay1U7MQ&ab_channel=EltonMinetto">Introdução a Go - Elton Mineeto</a>
+✴️<a href="https://www.youtube.com/watch?v=t7k7Ay1U7MQ&ab_channel=EltonMinetto">Introdução a Go - Elton Minetto</a><br>
 ✴️<a href="https://www.youtube.com/watch?v=Q0sKAMal4WQ&ab_channel=edureka%21">Go Programming Language Tutorial | Golang Tutorial For Beginners | Go Language Training | Edureka</a><br>
 ✴️<a href="https://www.youtube.com/watch?v=gYthswsFlyU&ab_channel=DB1Group">Meetup Golang - Desbravando o mundo com Golang - DB1 Group - YouTube</a><br>
 ✴️<a href="https://www.youtube.com/watch?v=SqrbIlUwR0U&ab_channel=TraversyMedia">Go / Golang Crash Course - Traversy Media - YouTube</a><br>
@@ -74,10 +74,10 @@
 ✴️<a href="https://medium.com/easyread/golang-programming-language-setup-and-basic-apps-for-beginners-bfec3960fb7d">Golang Programming Language Setup and Basic Apps for Beginners - EasyRead</a><br>
 ✴️<a href="https://geekflare.com/learn-golang/">Some of the Best Resources for Mastering Golang - GeekFlare</a><br>
 ✴️<a href="https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/">Golang Tutorial Guide – A List of Free Courses to Learn the Go Programming Language - FreeCodeCamp</a><br>
-✴️<a href="https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go-pt">Como codificar em linguagem Go - Digital Ocean</a>
-✴️<a href="https://eltonminetto.dev/post/2019-10-08-golang-por-onde-comecar/">Golang, por onde começar? - Elton Minetto</a>
-✴️<a href="https://ivanqueiroz.dev/2015/04/aprendendo-gogolang.html">Aprendendo GO/GOLANG - Ivan Queiroz</a>
-✴️<a href="https://medium.com/trainingcenter/golang-d94e16d4b383">GoLang — Simplificando a complexidade - Evandro F. Souza</a>
+✴️<a href="https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go-pt">Como codificar em linguagem Go - Digital Ocean</a><br>
+✴️<a href="https://eltonminetto.dev/post/2019-10-08-golang-por-onde-comecar/">Golang, por onde começar? - Elton Minetto</a><br>
+✴️<a href="https://ivanqueiroz.dev/2015/04/aprendendo-gogolang.html">Aprendendo GO/GOLANG - Ivan Queiroz</a><br>
+✴️<a href="https://medium.com/trainingcenter/golang-d94e16d4b383">GoLang - Simplificando a complexidade - Evandro F. Souza</a>
 
 <h3>NewsLetter:</h3>
 ✴️<a href="https://golangweekly.com/issues/383">Golang Weekly</a>
